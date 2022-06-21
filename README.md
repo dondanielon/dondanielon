@@ -37,7 +37,20 @@
   <img src="https://user-images.githubusercontent.com/96601499/174882105-f3c8a587-b247-4483-9825-76a756375dea.png" width="50" height="50" align="center"/>
     &nbsp;
   <img src="https://user-images.githubusercontent.com/96601499/174882152-98e09df1-8e3d-48c8-9137-4569f2dde94c.png" width="50" height="50" align="center"/>
-</p>                    
+</p>  
+
+## 📫 How to reach me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/danielvalenciadev/" >
+    <img width="4.5%" src="https://user-images.githubusercontent.com/96601499/174882957-e54db9ff-8032-45ed-b75a-917a25b406ff.png"></a>
+    &nbsp;&nbsp;&nbsp;
+<a href="becse.ca0@gmail.com" >
+    <img width="4.5%" src="https://user-images.githubusercontent.com/96601499/174883017-9a666f99-ecbc-45a0-bf48-28a6ba7fa3b5.png"></a>
+</p>
+
+&nbsp;
+&nbsp;
 
 <!--
 **dondanielon/dondanielon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
