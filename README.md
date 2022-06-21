@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/danielvalenciadev/" >
     <img width="4.5%" src="https://user-images.githubusercontent.com/96601499/174882957-e54db9ff-8032-45ed-b75a-917a25b406ff.png"></a>
     &nbsp;&nbsp;&nbsp;
-<a href="becse.ca0@gmail.com" >
+<a href="mailto:becse.ca0@gmail.com" >
     <img width="4.5%" src="https://user-images.githubusercontent.com/96601499/174883017-9a666f99-ecbc-45a0-bf48-28a6ba7fa3b5.png"></a>
 </p>
 
