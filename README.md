@@ -7,6 +7,9 @@
 </h1>
 
 ### 😄 Who I am?
+<p align="center">
+I'm a Full Stack developer who loves working on new and exciting projects, I'm very passionate about the backend side of projects. I'm always trying to improve my skills, either learning new technologies or getting better with the technologies that I know.
+</p>
 
 
 ### ⚡Languages and Tools
