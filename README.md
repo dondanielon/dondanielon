@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡Languages and Tools
 
 
 <p align="center">
@@ -23,18 +23,12 @@
     &nbsp;
   <img src="https://user-images.githubusercontent.com/96601499/174881187-df6fafaa-934e-4a4d-9c91-f4eb65353671.png" width="50" height="50" align="center"/>
     &nbsp;
-  <img src="./assets/img/trello.png" width="50" height="50" align="center"/>
+  <img src="https://user-images.githubusercontent.com/96601499/174882070-28458835-77af-486c-881d-d987a1db299a.png" width="50" height="50" align="center"/>
     &nbsp;
-  <img src="./assets/img/slack.png" width="50" height="50" align="center"/>
+  <img src="https://user-images.githubusercontent.com/96601499/174882105-f3c8a587-b247-4483-9825-76a756375dea.png" width="50" height="50" align="center"/>
     &nbsp;
-  <img src="./assets/img/coreldraw.png" width="50" height="50" align="center"/>
-</p>
-
-
-
-
-
-                       
+  <img src="https://user-images.githubusercontent.com/96601499/174882152-98e09df1-8e3d-48c8-9137-4569f2dde94c.png" width="50" height="50" align="center"/>
+</p>                    
 
 <!--
 **dondanielon/dondanielon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,5 +42,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
