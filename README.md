@@ -2,8 +2,7 @@
   <i>
     <p align="center">Daniel Valencia<br/>
                
-               Full Stack Developer 💻⚡
-    </p>
+               Full Stack Developer 💻
   </i>
 </h1>
 
