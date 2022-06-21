@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+| JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack | CorelDraw |
+![image](https://user-images.githubusercontent.com/96601499/174880919-7134b46b-f5dd-4816-aeeb-9ecb44634e93.png)
+                       
+
 <!--
 **dondanielon/dondanielon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
