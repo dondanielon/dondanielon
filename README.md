@@ -16,7 +16,7 @@ I'm a Full Stack developer who loves working on new and exciting projects, I'm v
 
 
 <p align="center">
-| JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack | CorelDraw |
+| JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack | 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96601499/174880919-7134b46b-f5dd-4816-aeeb-9ecb44634e93.png)" width="50" height="50" align="center"/>
@@ -40,8 +40,6 @@ I'm a Full Stack developer who loves working on new and exciting projects, I'm v
   <img src="https://user-images.githubusercontent.com/96601499/174882070-28458835-77af-486c-881d-d987a1db299a.png" width="50" height="50" align="center"/>
     &nbsp;
   <img src="https://user-images.githubusercontent.com/96601499/174882105-f3c8a587-b247-4483-9825-76a756375dea.png" width="50" height="50" align="center"/>
-    &nbsp;
-  <img src="https://user-images.githubusercontent.com/96601499/174882152-98e09df1-8e3d-48c8-9137-4569f2dde94c.png" width="50" height="50" align="center"/>
 </p>  
 &nbsp;
 &nbsp;
